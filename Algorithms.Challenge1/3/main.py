@@ -1,3 +1,5 @@
+#Задача 3. Algorithms. Challenge №1
+#Хороб Роман КІ-19-1К
 x1 = int(input("х1: "))
 y1 = int(input("у1: "))
 x2 = int(input("х2: "))
